@@ -1,7 +1,5 @@
 # Candy Crush in React
 
-This project is in support of the tutorial found [here](https://www.youtube.com/watch?v=PBrEq9Wd6_U)
-
 ### To Start This Project
 
 ### `npm i`
